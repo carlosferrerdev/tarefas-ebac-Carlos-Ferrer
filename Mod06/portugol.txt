@@ -1,0 +1,10 @@
+program PassoAPassoAcordar;
+inicio
+   escreva("1. Abrir os olhos");
+
+
+   escreva("2. Esticar o corpo");
+
+
+   escreva("3. Levantar da cama");
+fim.
